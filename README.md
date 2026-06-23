@@ -13,6 +13,8 @@ Repository with exercises and projects developed during the 100 Days of Code: Th
 
 ![password_generator](day_5_password_generator/password_generator.png)
 
+![Guess the Number](day_12_guess_the_number/adivinaElNumero.png)
+
 ![hangman](day_7_hangman_(english)/hangman.png)
 
 ![Juego piedra, papel o tijeras](/day_4_rock_paper_or_scissors/Rock_paper_scissors.png)
