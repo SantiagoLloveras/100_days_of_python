@@ -4,3 +4,11 @@ Repositorio con ejercicios y proyectos desarrollados durante el curso 100 Days o
 ---
 
 Repository with exercises and projects developed during the 100 Days of Code: The Complete Python Pro Bootcamp course. Includes practice in Python fundamentals, automation, data manipulation, web scraping, web development, and problem-solving through real-world projects.
+
+
+---
+![Juego piedra, papel o tijeras](/day_4_rock_paper_or_scissors/Rock_paper_scissors.png)
+
+![password_generator](day_5_password_generator/password_generator.png)
+
+![hangman](day_7_hangman_(english)/hangman.png)
