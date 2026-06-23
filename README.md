@@ -7,8 +7,12 @@ Repository with exercises and projects developed during the 100 Days of Code: Th
 
 
 ---
-![Juego piedra, papel o tijeras](/day_4_rock_paper_or_scissors/Rock_paper_scissors.png)
+
+
+![BlackJack](day_11_blackjack/blackjack.png)
 
 ![password_generator](day_5_password_generator/password_generator.png)
 
 ![hangman](day_7_hangman_(english)/hangman.png)
+
+![Juego piedra, papel o tijeras](/day_4_rock_paper_or_scissors/Rock_paper_scissors.png)
