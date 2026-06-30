@@ -6,11 +6,11 @@ Repository with exercises and projects developed during the 100 Days of Code: Th
 ---
 # Examples:
 
+## Pong Game
+<img src="day_23_pong_game/images/pong.gif" width="450" alt="Pong Game">
+
 ## Snake Game
 <img src="day_22_snake_game/images/snake.gif" width="450" alt="Snake Game">
-
-## Blackjack
-<img src="day_11_blackjack/blackjack.png" width="450" alt="BlackJack">
 
 ## Password Generator
 <img src="day_5_password_generator/password_generator.png" width="450" alt="Password Generator">
