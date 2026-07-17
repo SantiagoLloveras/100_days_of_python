@@ -12,9 +12,4 @@ Repository with exercises and projects developed during the 100 Days of Code: Th
 ## Snake Game
 <img src="day_22_snake_game/images/snake.gif" width="450" alt="Snake Game">
 
-## Password Generator
-<img src="day_5_password_generator/password_generator.png" width="450" alt="Password Generator">
-
-## Hangman
-<img src="day_7_hangman_(english)/hangman.png" width="450" alt="Hangman">
 
